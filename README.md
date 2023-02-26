@@ -1,5 +1,5 @@
 # Real Estate Price Prediction
-####This machine learning project predicts real estate prices in five cities of Pakistan: Faisalabad, Karachi, Islamabad, Rawalpindi, and Multan. The model uses data collected from Zameen.com through web scraping to predict prices based on user input of area, square footage, and number of bedrooms and bathrooms.
+#### This machine learning project predicts real estate prices in five cities of Pakistan: Faisalabad, Karachi, Islamabad, Rawalpindi, and Multan. The model uses data collected from Zameen.com through web scraping to predict prices based on user input of area, square footage, and number of bedrooms and bathrooms.
 
 ##Project Description
 ####The real estate price prediction project is a semester project that uses machine learning to predict prices of properties in Pakistan. The project is designed to help people make informed decisions when buying or selling a property in any of the five cities. The model is built using Python and popular libraries like Scikit-learn and Pandas.
